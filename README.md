@@ -4,7 +4,7 @@
  - 🌱 I’m currently learning<strong> Javascript.</strong>
  - 🤔 I’m looking for help with <strong>Web-Tech.</strong>
  
- - 💬 Ask me about<strong> Tech & Sports related stuff.</strong>
+ - 💬 Ask me about<strong> Tech & Football related stuff.</strong>
  
  - 📫 How to reach me:<strong> 
         Linkedin : <a href="https://www.linkedin.com/in/deepanshuraj799/">LinkedIn</a>
