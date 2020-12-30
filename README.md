@@ -6,10 +6,7 @@
  
  - 💬 Ask me about<strong> Tech & Football related stuff.</strong>
  
- - 📫 How to reach me:<strong> 
-        
-        <a href="https://www.linkedin.com/in/deepanshuraj799/"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg"/></a>  <a href="https://www.kaggle.com/davalpha"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/kaggle.svg"/></a>  <a href="https://www.facebook.com/deepanshu711/"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/facebook.svg"/></a>  <a href="https://www.instagram.com/_d_eepanshu/"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg"/></a>
-</strong>
+ - 📫 <strong>How to reach me:  </strong> <a href="https://www.linkedin.com/in/deepanshuraj799/"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg"/></a>  <a href="https://www.kaggle.com/davalpha"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/kaggle.svg"/></a>  <a href="https://www.facebook.com/deepanshu711/"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/facebook.svg"/></a>  <a href="https://www.instagram.com/_d_eepanshu/"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg"/></a>
  
  - 😄 Pronouns:<strong> hy/hym/hys/hymself.</strong>
  - ⚡ Fun fact:<strong> Knowlegde is a Tricky Thing.</strong>
