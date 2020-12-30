@@ -12,6 +12,6 @@
  - ⚡ Fun fact:<strong> Knowlegde is a Tricky Thing.</strong>
 </pre>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepanshu-Raj&count_private=true&show_icons=true&theme=onedark" style="width:50%;"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-Raj&layout=compact&langs_count=8&card_width=300"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepanshu-Raj&count_private=true&show_icons=true&theme=onedark" style="width:50%;"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-Raj&layout=compact&langs_count=8&card_width=290"/>
 
 
