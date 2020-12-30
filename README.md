@@ -1,6 +1,6 @@
 ### Hi there, This is Deepanshu Raj 👋
 
-
+<pre>
  - 🌱 I’m currently learning<strong> Javascript & VCS.</strong>
  - 🤔 I’m looking for help with <strong>Web-Tech.</strong>
  
@@ -10,8 +10,6 @@
  
  - 😄 Pronouns:<strong> hy/hym/hys/hymself.</strong>
  - ⚡ Fun fact:<strong> Knowlegde is a Tricky Thing.</strong>
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepanshu-Raj&count_private=true&show_icons=true&theme=onedark" style="width:50%;"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-Raj&layout=compact&langs_count=8&card_width=280"/>
-
+</pre>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepanshu-Raj&count_private=true&show_icons=true&theme=onedark" style="width:50%;"/>
 
