@@ -14,6 +14,6 @@
         Instagram : <a href="https://www.instagram.com/_d_eepanshu/">Instagram</a>
 </strong>
  
- - 😄 Pronouns:<strong> hy/hym/hys/hys/hymself.</strong>
+ - 😄 Pronouns:<strong> hy/hym/hys/hymself.</strong>
  - ⚡ Fun fact:<strong> Knowlegde is a Tricky Thing.</strong>
 </pre>
