@@ -1,7 +1,7 @@
 ### Hi there, This is Deepanshu Raj 👋
 
 <pre>
- - 🌱 I’m currently learning<strong> Javascript.</strong>
+ - 🌱 I’m currently learning<strong> Javascript & VCS.</strong>
  - 🤔 I’m looking for help with <strong>Web-Tech.</strong>
  
  - 💬 Ask me about<strong> Tech & Football related stuff.</strong>
