@@ -17,3 +17,6 @@
  - 😄 Pronouns:<strong> hy/hym/hys/hymself.</strong>
  - ⚡ Fun fact:<strong> Knowlegde is a Tricky Thing.</strong>
 </pre>
+
+### Stats :
+<img src="https://github-readme-stats.vercel.app/api?username=deepanshu-Raj&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
