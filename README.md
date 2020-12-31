@@ -1,4 +1,4 @@
-### Hi there, This is Deepanshu Raj 👋
+## Hi there, This is Deepanshu Raj 👋
 
 <h5>
  
@@ -20,7 +20,15 @@
  
 </h5>
 
+### 🎧 Spotify Playing:
+[![Spotify](https://spotify-trial.deepanshu-raj.vercel.app/api/spotify)](https://open.spotify.com/user/lf8m9lcq9qp6vx4dktl3zlgg3)
+
 <details>
  <summary>:zap: <strong>Github Stats</strong> </summary> 
+<img src="https://github-readme-stats.vercel.app/api?username=deepanshu-Raj&count_private=true&show_icons=true&theme=onedark" style="width:50%;"/>
+</details>
+
+<details>
+ <summary>:zap: <strong>Recent Github Activity</strong> </summary> 
 <img src="https://github-readme-stats.vercel.app/api?username=deepanshu-Raj&count_private=true&show_icons=true&theme=onedark" style="width:50%;"/>
 </details>
