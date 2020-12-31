@@ -1,11 +1,12 @@
-## Hi there, This is Deepanshu Raj 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Deepanshu</h1>
+<h3 align="center">A enthusiastic developer from India</h3>
 
 <h5>
  
  - 🌱 I’m currently learning<strong> Javascript & VCS.</strong>
  - 🤔 I’m looking for help with <strong>Web-Tech.</strong>
  
- - 💬 Ask me about<strong> Tech & Football related stuff.</strong>
+ - 💬 Ask me about<strong> Machine Learning & Football related stuff.</strong>
  
  - 📫 How to reach me:   
  
@@ -25,5 +26,5 @@
 
 <details>
  <summary>:zap: <strong>Github Stats</strong> </summary> 
-<img src="https://github-readme-stats.vercel.app/api?username=deepanshu-Raj&count_private=true&show_icons=true&theme=onedark" style="width:50%;"/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=deepanshu-Raj&count_private=true&show_icons=true&theme=onedark" style="width:50%;"/></p>
 </details>
