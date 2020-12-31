@@ -6,7 +6,9 @@
  
  - 💬 Ask me about<strong> Tech & Football related stuff.</strong>
  
- - 📫 <strong>How to reach me:  </strong> <a href="https://www.linkedin.com/in/deepanshuraj799/"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg"/></a>  <a href="https://www.kaggle.com/davalpha"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/kaggle.svg"/></a>  <a href="https://www.facebook.com/deepanshu711/"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/facebook.svg"/></a>  <a href="https://www.instagram.com/_d_eepanshu/"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg"/></a>
+ - 📫 <strong>How to reach me:  </strong> 
+ 
+      <a href="https://www.linkedin.com/in/deepanshuraj799/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.instagram.com/_d_eepanshu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://www.facebook.com/deepanshu711/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>  
  
  - 😄 Pronouns:<strong> hy/hym/hys/hymself.</strong>
  - ⚡ Fun fact:<strong> Knowlegde is a Tricky Thing.</strong>
