@@ -27,8 +27,3 @@
  <summary>:zap: <strong>Github Stats</strong> </summary> 
 <img src="https://github-readme-stats.vercel.app/api?username=deepanshu-Raj&count_private=true&show_icons=true&theme=onedark" style="width:50%;"/>
 </details>
-
-<details>
- <summary>:zap: <strong>Recent Github Activity</strong> </summary> 
-<img src="https://github-readme-stats.vercel.app/api?username=deepanshu-Raj&count_private=true&show_icons=true&theme=onedark" style="width:50%;"/>
-</details>
