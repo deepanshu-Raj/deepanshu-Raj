@@ -26,5 +26,5 @@
 
 <details>
  <summary>:zap: <strong>Github Stats</strong> </summary> 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=deepanshu-Raj&count_private=true&show_icons=true&theme=onedark" style="width:50%;"/></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=deepanshu-Raj&count_private=true&show_icons=true&theme=onedark" style="width:50%;"/></p>
 </details>
