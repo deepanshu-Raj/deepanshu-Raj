@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Deepanshu</h1>
 
 
-<img align="right" alt="GIF" src="https://image.freepik.com/free-vector/developer-activity-concept-illustration_114360-2801.jpg" width="480" height="450" />
+<img align="right" alt="GIF" src="https://image.freepik.com/free-vector/developer-activity-concept-illustration_114360-2801.jpg" width="440" height="410" />
 
 
  - 🌱 I’m currently learning<strong> Javascript & VCS.</strong>
