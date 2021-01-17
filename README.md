@@ -10,7 +10,8 @@
  
  - 📫 How to reach me:   
  
-      <a href="https://www.linkedin.com/in/deepanshuraj799/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.instagram.com/_d_eepanshu/"><img src="https://img.shields.io/badge/Instagram-a0e823?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://www.facebook.com/deepanshu711/"><img src="https://img.shields.io/badge/Facebook-0774ab?style=for-the-badge&logo=facebook&logoColor=white"/></a>  <a href="https://www.kaggle.com/davalpha"><img src="https://img.shields.io/badge/Kaggle-0eb01e?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>  
+    
+      <a href="https://www.linkedin.com/in/deepanshuraj799/"><img src="https://www.flaticon.com/svg/vstatic/svg/1409/1409945.svg?token=exp=1610847622~hmac=909a212e2438ce530c6d10cb991cfeee" height="36px;" width="36px;" /></a> <a href="https://www.instagram.com/_d_eepanshu/"><img src="https://www.flaticon.com/svg/vstatic/svg/1409/1409946.svg?token=exp=1610847752~hmac=0900945a30f5f5ea8ba1b7918712220c" height="36px;" width="36px;"/></a> <a href="https://www.facebook.com/deepanshu711/"><img src="https://www.flaticon.com/svg/vstatic/svg/3579/3579093.svg?token=exp=1610848028~hmac=252e1621dfcfb095e266597d92278d52" height="36px;" width="36px;"/></a>  <a href="https://www.kaggle.com/davalpha"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" height="36px;" width="36px;"/></a>  
  
  - 😄 Pronouns:<strong> hy/hym/hys/hymself.</strong>
  - ⚡ Fun fact:<strong> Knowlegde is a Tricky Thing.</strong>
