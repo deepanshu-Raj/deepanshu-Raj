@@ -11,7 +11,7 @@
  - 📫 How to reach me:   
  
     
-      <a href="https://www.linkedin.com/in/deepanshuraj799/" target="_blank"><img src="images/linkedin.png" height="36px;" width="36px;" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/_d_eepanshu/" target="_blank"><img src="images/ig.png" height="36px;" width="36px;"/></a>&nbsp;&nbsp;<a href="https://www.facebook.com/deepanshu711/" target="_blank"><img src="images/facebook.png" height="36px;" width="36px;"/></a>&nbsp;&nbsp;<a href="https://www.kaggle.com/davalpha" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" height="36px;" width="36px;"/></a>  
+      <a href="https://www.linkedin.com/in/deepanshuraj799/" target="_blank"><img src="animations/linkedin-bounce_192.gif" height="36px;" width="36px;" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/_d_eepanshu/" target="_blank"><img src="images/ig.png" height="36px;" width="36px;"/></a>&nbsp;&nbsp;<a href="https://www.facebook.com/deepanshu711/" target="_blank"><img src="animations/facebook-circled-shake_128.gif" height="36px;" width="36px;"/></a>&nbsp;&nbsp;<a href="https://www.kaggle.com/davalpha" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" height="36px;" width="36px;"/></a>  
  
  - 😄 Pronouns:<strong> hy/hym/hys/hymself.</strong>
  - ⚡ Fun fact:<strong> Knowlegde is a Tricky Thing.</strong>
