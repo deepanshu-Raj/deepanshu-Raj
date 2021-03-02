@@ -21,9 +21,6 @@
       <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-c90a24?style=for-the-badge&logo=c&logoColor=white"/></a>   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-991776?style=for-the-badge&logo=python&logoColor=white"/></a> <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
  
 
-### 🎧 Spotify Playing:
-[![Spotify](https://spotify-trial.deepanshu-raj.vercel.app/api/spotify)](https://open.spotify.com/user/lf8m9lcq9qp6vx4dktl3zlgg3)
-
 <details>
  <summary>:zap: <strong>Github Stats</strong> </summary>
  
