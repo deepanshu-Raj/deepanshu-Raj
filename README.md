@@ -23,6 +23,14 @@
 
 <details>
  <summary>:zap: <strong>Github Stats</strong> </summary>
+ <br>
  
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=deepanshu-Raj&count_private=true&show_icons=true&theme=onedark" style="width:50%;"/></p>
+</details>
+
+<details>
+ <summary>😂 <strong>Random joke that'll make you laugh!!</strong> </summary>
+   <br>
+ 
+   ![Jokes Card](https://readme-jokes.vercel.app/api)
 </details>
