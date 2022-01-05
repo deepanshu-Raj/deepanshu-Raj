@@ -18,7 +18,7 @@
  
  - 🚀 Skills:
  
-      <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-c90a24?style=for-the-badge&logo=c&logoColor=white"/></a>   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-991776?style=for-the-badge&logo=python&logoColor=white"/></a> <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
+      <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="images/c-document.png"/></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="images/c-.png"/></a>&nbsp;&nbsp;<a href="https://www.python.org/"><img src="images/python.png"/></a>&nbsp;&nbsp;<a href="https://www.djangoproject.com/"><img src="images/icons8-django-32.png"></a>
  
 
 <details>
